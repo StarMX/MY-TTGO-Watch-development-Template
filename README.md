@@ -1,1 +1,1 @@
-MY-TTGO-Watch Plugin APP Template
+MY-TTGO-Watch Plugin APP development Template
